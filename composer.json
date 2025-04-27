@@ -1,0 +1,8 @@
+{
+    "name": "your-name/profile-database",
+    "description": "A profile database with CRUD operations",
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*"
+    }
+}
